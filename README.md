@@ -1,5 +1,5 @@
 # ZoomSonics MIAM
-Sonification system to read the chat file of your Zoom sessions.
+Sonification system using the chat file of your Zoom sessions.
 
 ## Description
 It requires `.txt` file to parse the messages, Zoom stores this file normally (MacOSC) in `~/Documents/Zoom/FolderName`.
